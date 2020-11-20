@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/form_response_on_mail/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/form_response_on_mail/static/js/main.9eb4a958.chunk.js",
+    "main.js.map": "/form_response_on_mail/static/js/main.9eb4a958.chunk.js.map",
+    "runtime-main.js": "/form_response_on_mail/static/js/runtime-main.9c5fda62.js",
+    "runtime-main.js.map": "/form_response_on_mail/static/js/runtime-main.9c5fda62.js.map",
+    "static/js/2.f97d81ad.chunk.js": "/form_response_on_mail/static/js/2.f97d81ad.chunk.js",
+    "static/js/2.f97d81ad.chunk.js.map": "/form_response_on_mail/static/js/2.f97d81ad.chunk.js.map",
+    "static/js/3.85470c4f.chunk.js": "/form_response_on_mail/static/js/3.85470c4f.chunk.js",
+    "static/js/3.85470c4f.chunk.js.map": "/form_response_on_mail/static/js/3.85470c4f.chunk.js.map",
+    "index.html": "/form_response_on_mail/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/form_response_on_mail/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.f97d81ad.chunk.js.LICENSE.txt": "/form_response_on_mail/static/js/2.f97d81ad.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/form_response_on_mail/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c5fda62.js",
+    "static/js/2.f97d81ad.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9eb4a958.chunk.js"
+  ]
+}
